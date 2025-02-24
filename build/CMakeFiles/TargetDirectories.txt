@@ -1,0 +1,3 @@
+/home/prince_sharma/Programming/shellProject/build/CMakeFiles/simpleShell.dir
+/home/prince_sharma/Programming/shellProject/build/CMakeFiles/edit_cache.dir
+/home/prince_sharma/Programming/shellProject/build/CMakeFiles/rebuild_cache.dir

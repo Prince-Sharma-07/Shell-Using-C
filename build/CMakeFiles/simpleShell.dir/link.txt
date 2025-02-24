@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/simpleShell.dir/simpleShell.c.o -o simpleShell 
